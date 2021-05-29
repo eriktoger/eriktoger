@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriktoger
 - 👀 I’m interested in most things web related.
-- 🌱 I’m currently learning React native and Firebase
-- 💞️ I’m currently working as a Frontend-developer (but has done fullstack-work as well)
+- 🌱 I’m currently trying out React native and Firebase
+- 💞️ I’m currently working as a Frontend-developer, mostly React/Redux (but has done fullstack-work as well)
 
 
 <!---
