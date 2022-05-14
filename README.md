@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eriktoger
-- 👀 I’m interested in most things web related.
-- 🌱 I’m currently exploring Webassembly, Emscripten and C++.
+- 👀 I’m interested in most things code related.
+- 🌱 I’m currently exploring Rust and Webassembly.
 - 💞️ I’m currently working as a Frontend-developer, mostly React/Redux (but some fullstack-work as well)
 
 
